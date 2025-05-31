@@ -5,7 +5,6 @@ import sys
 # GUI
 from PyQt5.QtWidgets import QApplication
 
-REPORTLAB_AVAILABLE = True
 
 # INTERNAL LIBRARIES
 from Lib.MainWindow import MainWindow
