@@ -1,9 +1,0 @@
-Accuracy:  98.70%
-Precision: 0.9877
-Recall:    0.9871
-F1 Score:  0.9874
-Confusion Matrix:
-[[212   0   0   4]
- [  0 201   0   4]
- [  0   0 200   0]
- [  3   0   0 219]]
